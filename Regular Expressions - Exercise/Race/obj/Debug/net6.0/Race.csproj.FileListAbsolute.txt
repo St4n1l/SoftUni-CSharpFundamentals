@@ -1,0 +1,14 @@
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\bin\Debug\net6.0\Race.exe
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\bin\Debug\net6.0\Race.deps.json
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\bin\Debug\net6.0\Race.runtimeconfig.json
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\bin\Debug\net6.0\Race.dll
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\bin\Debug\net6.0\Race.pdb
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\Race.AssemblyInfoInputs.cache
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\Race.AssemblyInfo.cs
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\Race.csproj.CoreCompileInputs.cache
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\Race.dll
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\refint\Race.dll
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\Race.pdb
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\Race.genruntimeconfig.cache
+D:\Git\C# - Fundamentals\Regular Expressions - Exercise\Race\obj\Debug\net6.0\ref\Race.dll

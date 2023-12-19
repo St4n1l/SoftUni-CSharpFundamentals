@@ -1,0 +1,14 @@
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.exe
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.deps.json
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.runtimeconfig.json
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.dll
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.pdb
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.AssemblyInfoInputs.cache
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.AssemblyInfo.cs
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.csproj.CoreCompileInputs.cache
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.dll
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\refint\Ages.dll
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.pdb
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.genruntimeconfig.cache
+D:\Git\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net6.0\ref\Ages.dll
